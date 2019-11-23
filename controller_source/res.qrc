@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/break.png</file>
+        <file>resources/cluster.png</file>
+        <file>resources/excel.png</file>
+        <file>resources/handle.png</file>
+    </qresource>
+</RCC>

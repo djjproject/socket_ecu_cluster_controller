@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/doggy.gif</file>
+        <file>resources/Baam.png</file>
+        <file>resources/bg.png</file>
+        <file>resources/black.png</file>
+        <file>resources/DNA.png</file>
+        <file>resources/fancy.png</file>
+        <file>resources/heart.png</file>
+        <file>resources/jelly.png</file>
+        <file>resources/musicBG.png</file>
+        <file>resources/twice.png</file>
+        <file>resources/yeah.png</file>
+    </qresource>
+</RCC>
